@@ -127,6 +127,7 @@ body {
   width: 80px;
   top: -35px;
   left: 41.5%;
+  display: none;
   /* transform: scale(0.1); */
 }
 
